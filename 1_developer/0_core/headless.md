@@ -46,7 +46,7 @@ This works on Mac, Windows, and Linux machines with a graphical user interface. 
 
 ### Run the LLM service on machine login
 
-Head to app settings (`Cmd` / `Ctrl` + `,`) and check the box to run the LLM server on login.
+Head to app settings (`Cmd` / `Ctrl` + `,`) -> Developer mode (On) -> Local LLM Service (headless) and check the box to run the LLM server on login.
 
 <img src="/assets/marketing/docs/headless-settings.webp" style="" data-caption="Enable the LLM server to start on machine login" />
 
